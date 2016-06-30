@@ -1,4 +1,4 @@
-function factorial31(n) {
+function factorial32(n) {
     if (n == 0) {
         return 1;
     }
