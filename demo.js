@@ -1,4 +1,4 @@
-function factorial29(n) {
+function factorial30(n) {
     if (n == 0) {
         return 1;
     }
