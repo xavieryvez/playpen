@@ -1,4 +1,4 @@
-function factorial35(n) {
+function factorial36(n) {
     if (n == 0) {
         return 1;
     }
