@@ -1,4 +1,4 @@
-function factorial38(n) {
+function factorial39(n) {
     if (n == 0) {
         return 1;
     }
