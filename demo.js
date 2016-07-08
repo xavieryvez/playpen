@@ -1,4 +1,4 @@
-function factorial44(n) {
+function factorial45(n) {
     if (n == 0) {
         return 1;
     }
