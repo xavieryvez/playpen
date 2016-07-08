@@ -1,4 +1,4 @@
-function factorial50(n) {
+function factorial51(n) {
     if (n == 0) {
         return 1;
     }
