@@ -1,4 +1,4 @@
-function factorial57(n) {
+function factorial58(n) {
     if (n == 0) {
         return 1;
     }
