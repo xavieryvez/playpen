@@ -1,4 +1,4 @@
-function factorial69(n) {
+function factorial70(n) {
     if (n == 0) {
         return 1;
     }
