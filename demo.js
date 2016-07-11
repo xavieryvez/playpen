@@ -1,4 +1,4 @@
-function factorial72(n) {
+function factorial73(n) {
     if (n == 0) {
         return 1;
     }
