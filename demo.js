@@ -1,4 +1,4 @@
-function factorial86(n) {
+function factorial87(n) {
     if (n == 0) {
         return 1;
     }
