@@ -1,4 +1,4 @@
-function factorial103(n) {
+function factorial104(n) {
     if (n == 0) {
         return 1;
     }
