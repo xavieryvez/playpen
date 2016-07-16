@@ -1,4 +1,4 @@
-function factorial106(n) {
+function factorial107(n) {
     if (n == 0) {
         return 1;
     }
