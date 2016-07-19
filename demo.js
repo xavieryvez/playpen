@@ -1,4 +1,4 @@
-function factorial122(n) {
+function factorial123(n) {
     if (n == 0) {
         return 1;
     }
