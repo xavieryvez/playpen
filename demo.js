@@ -1,4 +1,4 @@
-function factorial169(n) {
+function factorial170(n) {
     if (n == 0) {
         return 1;
     }
