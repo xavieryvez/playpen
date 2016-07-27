@@ -1,4 +1,4 @@
-function factorial203(n) {
+function factorial204(n) {
     if (n == 0) {
         return 1;
     }
