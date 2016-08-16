@@ -1,4 +1,4 @@
-function factorial360(n) {
+function factorial361(n) {
     if (n == 0) {
         return 1;
     }
