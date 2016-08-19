@@ -1,4 +1,4 @@
-function factorial385(n) {
+function factorial386(n) {
     if (n == 0) {
         return 1;
     }
