@@ -1,4 +1,4 @@
-function factorial404(n) {
+function factorial405(n) {
     if (n == 0) {
         return 1;
     }
