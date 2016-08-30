@@ -1,4 +1,4 @@
-function factorial451(n) {
+function factorial452(n) {
     if (n == 0) {
         return 1;
     }
