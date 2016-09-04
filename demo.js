@@ -1,4 +1,4 @@
-function factorial477(n) {
+function factorial478(n) {
     if (n == 0) {
         return 1;
     }
