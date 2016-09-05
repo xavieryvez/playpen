@@ -1,4 +1,4 @@
-function factorial485(n) {
+function factorial486(n) {
     if (n == 0) {
         return 1;
     }
