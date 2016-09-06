@@ -1,4 +1,4 @@
-function factorial503(n) {
+function factorial504(n) {
     if (n == 0) {
         return 1;
     }
