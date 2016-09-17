@@ -1,4 +1,4 @@
-function factorial613(n) {
+function factorial614(n) {
     if (n == 0) {
         return 1;
     }
