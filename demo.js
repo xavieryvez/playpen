@@ -1,4 +1,4 @@
-function factorial665(n) {
+function factorial666(n) {
     if (n == 0) {
         return 1;
     }
