@@ -1,4 +1,4 @@
-function factorial737(n) {
+function factorial738(n) {
     if (n == 0) {
         return 1;
     }
