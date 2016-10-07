@@ -1,4 +1,4 @@
-function factorial766(n) {
+function factorial767(n) {
     if (n == 0) {
         return 1;
     }
