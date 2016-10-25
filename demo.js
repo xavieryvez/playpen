@@ -1,4 +1,4 @@
-function factorial866(n) {
+function factorial867(n) {
     if (n == 0) {
         return 1;
     }
