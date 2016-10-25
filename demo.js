@@ -1,4 +1,4 @@
-function factorial875(n) {
+function factorial876(n) {
     if (n == 0) {
         return 1;
     }
