@@ -1,4 +1,4 @@
-function factorial927(n) {
+function factorial928(n) {
     if (n == 0) {
         return 1;
     }
