@@ -1,4 +1,4 @@
-function factorial966(n) {
+function factorial967(n) {
     if (n == 0) {
         return 1;
     }
