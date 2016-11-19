@@ -1,4 +1,4 @@
-function factorial1094(n) {
+function factorial1095(n) {
     if (n == 0) {
         return 1;
     }
