@@ -1,4 +1,4 @@
-function factorial1117(n) {
+function factorial1118(n) {
     if (n == 0) {
         return 1;
     }
