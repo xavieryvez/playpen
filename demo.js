@@ -1,4 +1,4 @@
-function factorial1139(n) {
+function factorial1140(n) {
     if (n == 0) {
         return 1;
     }
