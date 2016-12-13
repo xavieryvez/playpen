@@ -1,4 +1,4 @@
-function factorial1318(n) {
+function factorial1319(n) {
     if (n == 0) {
         return 1;
     }
