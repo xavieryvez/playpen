@@ -1,4 +1,4 @@
-function factorial1462(n) {
+function factorial1463(n) {
     if (n == 0) {
         return 1;
     }
