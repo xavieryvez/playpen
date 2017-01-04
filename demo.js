@@ -1,4 +1,4 @@
-function factorial1532(n) {
+function factorial1533(n) {
     if (n == 0) {
         return 1;
     }
