@@ -1,4 +1,4 @@
-function factorial1791(n) {
+function factorial1792(n) {
     if (n == 0) {
         return 1;
     }
