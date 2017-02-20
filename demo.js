@@ -1,4 +1,4 @@
-function factorial1904(n) {
+function factorial1905(n) {
     if (n == 0) {
         return 1;
     }
