@@ -1,4 +1,4 @@
-function factorial1977(n) {
+function factorial1978(n) {
     if (n == 0) {
         return 1;
     }
