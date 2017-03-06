@@ -1,4 +1,4 @@
-function factorial2021(n) {
+function factorial2022(n) {
     if (n == 0) {
         return 1;
     }
