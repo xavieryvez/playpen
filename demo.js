@@ -1,4 +1,4 @@
-function factorial2059(n) {
+function factorial2060(n) {
     if (n == 0) {
         return 1;
     }
