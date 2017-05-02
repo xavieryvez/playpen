@@ -1,4 +1,4 @@
-function factorial2528(n) {
+function factorial2529(n) {
     if (n == 0) {
         return 1;
     }
