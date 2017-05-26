@@ -1,4 +1,4 @@
-function factorial2687(n) {
+function factorial2688(n) {
     if (n == 0) {
         return 1;
     }
