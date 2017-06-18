@@ -1,4 +1,4 @@
-function factorial2866(n) {
+function factorial2867(n) {
     if (n == 0) {
         return 1;
     }
